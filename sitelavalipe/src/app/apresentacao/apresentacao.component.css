@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.fontelimpo{
+    font-size: 100px;
+    font-weight: 800;
+    color: #b0e2de;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin-left: -6px;
+    letter-spacing: normal;
+    margin-top: 15px;
+}
+.fontbanner{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.fontpreco{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
